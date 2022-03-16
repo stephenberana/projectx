@@ -1,25 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+I was unfortunately unable to thoroughly accomplish and finish the app because of tecnical system issues. My computer is unresponsive and laggy to the point that it severely hindered my ability to run and test the app. I also encountered problems with gems, specifically Spring, which required me to run gem "Pristine," which severely hindered my effort again due to the system's unresponsiveness.
 
 * ...
 # projectx
